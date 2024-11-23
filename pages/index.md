@@ -5,11 +5,10 @@ toc: false
 comment: true
 home_btn: true
 btn_text: true
-footer: true
-title: ""
+
+title: "R4f4h4x"
 author: "Rafak1ng29"
-encrypted_text: false
-permalink: /
+
 ---
 
 
